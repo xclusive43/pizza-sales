@@ -77,4 +77,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For further inquiries or contributions, please contact [Your Name](mailto:your.email@example.com).
+For further inquiries or contributions, please contact [AJAY PRAJAPATI](mailto:ajayxd43@gmail.com).
